@@ -10,7 +10,7 @@ The service will then sleep for 24 hours untill the next run.
 
 
 ### Installation
-Use self extractor to install files.
+Use Installer DTIQ-DLD-RisaCleanup-Installer.exe
 The file tree will be
 C:\DTIQ\DTIQ-DLD-RisaCleanup.exe
         \Settings\DLDRisa-Cleanup.json
