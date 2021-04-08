@@ -20,3 +20,6 @@ C:\DTIQ\DTIQ-DLD-RisaCleanup.exe
 After extracting the files 
 Run as administrator: DLDRisa-Fisttime.ps1
 This will install the Event Viewer Log as well as the windows auto start service.
+
+
+### Compiled with Advanced Installer 18.0
