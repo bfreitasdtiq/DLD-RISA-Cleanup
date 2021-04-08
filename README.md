@@ -14,10 +14,15 @@ Use Installer DTIQ-DLD-RisaCleanup-Installer.exe
 
 
 The file tree will be
+
 C:\DTIQ\DTIQ-DLD-RisaCleanup.exe
+
         \Settings\DLDRisa-Cleanup.json
+        
         \Settings\DLDRisa-Fisttime.ps1
+        
         \logs\DLD-Cleanup.log
+        
         
 After extracting the files 
 Run as administrator: DLDRisa-Fisttime.ps1
