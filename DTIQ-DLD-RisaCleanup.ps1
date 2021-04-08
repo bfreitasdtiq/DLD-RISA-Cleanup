@@ -41,3 +41,5 @@ ForEach-Object {
 }
 
 Write-EventLog -log DTIQ-Remoteman -source DTIQ -EntryType Information -eventID 200 -Message "Risa Drive has been cleaned purged all files older then $days "
+
+Start-Sleep -Seconds 86400
