@@ -1,6 +1,6 @@
 ### DLD-RISA-Cleanup
 
-This tool is used to clean DLD-Risa old files.
+This tool is used to clean DLD-Risa's old files.
 It will run as a windows service on auto start.
 The JSON config file specifys the number of days that needs to be met before the files are removed from the R: Drive
 After the clean up has been completed a detailed log of the file removal will be appended to C:\dtiq\logs\DLD-Cleanup.log
